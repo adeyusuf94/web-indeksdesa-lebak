@@ -1,0 +1,37 @@
+[02-Jun-2026 07:33:55 UTC] PHP Warning:  require(/home/indeksde/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/indeksde/public_html/public/index.php on line 14
+[02-Jun-2026 07:33:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/indeksde/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/indeksde/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/indeksde/public_html/public/index.php on line 14
+[02-Jun-2026 07:34:00 UTC] PHP Warning:  require(/home/indeksde/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/indeksde/public_html/public/index.php on line 14
+[02-Jun-2026 07:34:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/indeksde/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/indeksde/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/indeksde/public_html/public/index.php on line 14
+[02-Jun-2026 07:34:01 UTC] PHP Warning:  require(/home/indeksde/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/indeksde/public_html/public/index.php on line 14
+[02-Jun-2026 07:34:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/indeksde/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/indeksde/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/indeksde/public_html/public/index.php on line 14
+[02-Jun-2026 07:34:01 UTC] PHP Warning:  require(/home/indeksde/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/indeksde/public_html/public/index.php on line 14
+[02-Jun-2026 07:34:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/indeksde/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/indeksde/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/indeksde/public_html/public/index.php on line 14
+[02-Jun-2026 07:34:02 UTC] PHP Warning:  require(/home/indeksde/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/indeksde/public_html/public/index.php on line 14
+[02-Jun-2026 07:34:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/indeksde/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/indeksde/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/indeksde/public_html/public/index.php on line 14
+[02-Jun-2026 07:34:03 UTC] PHP Warning:  require(/home/indeksde/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/indeksde/public_html/public/index.php on line 14
+[02-Jun-2026 07:34:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/indeksde/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/indeksde/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/indeksde/public_html/public/index.php on line 14
+[02-Jun-2026 08:45:43 UTC] PHP Fatal error:  Class App\Models\User contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Filament\Models\Contracts\FilamentUser::canAccessPanel) in /home/indeksde/public_html/app/Models/User.php on line 12
+[02-Jun-2026 08:49:50 UTC] PHP Fatal error:  Could not check compatibility between App\Models\User::canAccessPanel(App\Models\Panel $panel): bool and Filament\Models\Contracts\FilamentUser::canAccessPanel(Filament\Panel $panel): bool, because class App\Models\Panel is not available in /home/indeksde/public_html/app/Models/User.php on line 51
+[02-Jun-2026 08:50:25 UTC] PHP Fatal error:  Could not check compatibility between App\Models\User::canAccessPanel(App\Models\Panel $panel): bool and Filament\Models\Contracts\FilamentUser::canAccessPanel(Filament\Panel $panel): bool, because class App\Models\Panel is not available in /home/indeksde/public_html/app/Models/User.php on line 51
+[02-Jun-2026 08:50:27 UTC] PHP Fatal error:  Could not check compatibility between App\Models\User::canAccessPanel(App\Models\Panel $panel): bool and Filament\Models\Contracts\FilamentUser::canAccessPanel(Filament\Panel $panel): bool, because class App\Models\Panel is not available in /home/indeksde/public_html/app/Models/User.php on line 51
+[02-Jun-2026 08:50:29 UTC] PHP Fatal error:  Could not check compatibility between App\Models\User::canAccessPanel(App\Models\Panel $panel): bool and Filament\Models\Contracts\FilamentUser::canAccessPanel(Filament\Panel $panel): bool, because class App\Models\Panel is not available in /home/indeksde/public_html/app/Models/User.php on line 51
+[02-Jun-2026 08:50:33 UTC] PHP Fatal error:  Could not check compatibility between App\Models\User::canAccessPanel(App\Models\Panel $panel): bool and Filament\Models\Contracts\FilamentUser::canAccessPanel(Filament\Panel $panel): bool, because class App\Models\Panel is not available in /home/indeksde/public_html/app/Models/User.php on line 51
+[02-Jun-2026 08:50:35 UTC] PHP Fatal error:  Could not check compatibility between App\Models\User::canAccessPanel(App\Models\Panel $panel): bool and Filament\Models\Contracts\FilamentUser::canAccessPanel(Filament\Panel $panel): bool, because class App\Models\Panel is not available in /home/indeksde/public_html/app/Models/User.php on line 51
